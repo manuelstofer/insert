@@ -1,0 +1,15 @@
+{
+    "name": "insert",
+    "description": "Insert HTML/Elements to the DOM",
+    "version": "0.0.1",
+    "keywords": [],
+    "dependencies": {
+        "component/domify": "*",
+        "manuelstofer/each": "*",
+        "manuelstofer/selectorfn": "*"
+    },
+    "scripts": [
+        "index.js"
+    ],
+    "repo": "https://github.com/manuelstofer/insert"
+}
